@@ -1,0 +1,39 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+
+# Python project files
+*.egg-info/
+dist/
+build/
+
+# Alembic versions
+alembic/versions/
+
+# Environment variables
+.env
+*.env
+
+# Node modules (React frontend)
+node_modules/
+package-lock.json
+
+# React build
+frontend/build/
+
+# VS Code
+.vscode/
+
+# Logs and temporary files
+*.log
+*.sqlite3
+*.bak
+*.swp
+.DS_Store
+
+# Poetry
+poetry.lock
